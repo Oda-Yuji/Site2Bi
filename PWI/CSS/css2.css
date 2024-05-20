@@ -1,0 +1,28 @@
+body
+{
+    background-color: aliceblue;
+    font-family: arial; 
+    margin-top: 60px
+}
+table, th, td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 40px;
+}
+h1
+{
+    text-align: center; 
+    border-bottom: 3px solid black; 
+    font-size: 50px;
+}
+h2
+{
+    text-align: center; 
+    font-size: 40px;
+}
+a
+{
+    color:black;
+}
